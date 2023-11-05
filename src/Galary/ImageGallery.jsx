@@ -49,7 +49,7 @@ const ImageGallery = () => {
       newImages.splice(index, 0, draggedImage);
       console.log(newImages)
       console.log(newImages)
-      setImages(newImages);
+      setImages(newImages)
       setDraggedIndex(index);
     }
   };
@@ -74,7 +74,6 @@ const ImageGallery = () => {
     setImages(newImages);
     setSelectedImages([]);
   };
-  
   return (
 <div className="bg-gray-300 w-full p-4">
   <div className="bg-white rounded-tr-lg rounded-tl-lg px-6 py-4 border-b border-gray-400">
@@ -133,7 +132,7 @@ const ImageGallery = () => {
           </div>
         </div>  
       ))}
-      <div className='flex flex-col justify-center items-center cursor-pointer border-2 border-dashed border-gray-400 rounded-lg text-gray-500 xl:h-[290px] lg:h-[227px] md:h-[261px] sm:[234px] h-[209px]' >
+      <div className='flex flex-col justify-center items-center cursor-pointer border-2 border-dashed border-gray-400 rounded-lg py-12   text-gray-500 ' >
       <IoImage size={30} />
         <p className='text-xl mt-4'>
           Add Images
