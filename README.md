@@ -36,5 +36,5 @@ Create a responsive image gallery using React JS with the following features:
 
 ### Submission:
 
-github Link: https://github.com/hridoy281810/image-gallery
+github Link: https://github.com/hridoy281810/image-gallery             
 Live Link: https://radiant-cupcake-b44941.netlify.app/
