@@ -4,10 +4,7 @@ function App() {
 
   return (
     <>
-
-{/* <Gell></Gell> */}
 <ImageGallery></ImageGallery>
-
     </>
   )
 }
