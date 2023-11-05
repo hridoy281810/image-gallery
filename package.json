@@ -10,17 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@dnd-kit/core": "^6.0.8",
-    "@dnd-kit/modifiers": "^6.0.1",
-    "@dnd-kit/sortable": "^7.0.2",
-    "@dnd-kit/utilities": "^3.2.1",
-    "node-vibrant": "^3.2.1-alpha.1",
     "react": "^18.2.0",
-    "react-dnd": "^16.0.1",
-    "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^18.2.0",
-    "react-gesture-responder": "^2.1.0",
-    "react-grid-dnd": "^2.1.2",
     "react-icons": "^4.11.0"
   },
   "devDependencies": {
